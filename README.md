@@ -195,3 +195,6 @@ This repository serves as the official landing page for Exquisite Corpse. The so
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Exquisite Corpse today!**
+
+---
+**Last updated:** 2026-11-09 04:16:47 UTC
